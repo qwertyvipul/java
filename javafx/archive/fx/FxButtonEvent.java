@@ -1,4 +1,4 @@
-package reference;
+package fx;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
